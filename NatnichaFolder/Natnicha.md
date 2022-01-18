@@ -7,4 +7,4 @@
 
 <img width="977" alt="Screen Shot 2565-01-18 at 22 28 29" src="https://user-images.githubusercontent.com/60128438/149967084-1d0f85fc-79e8-4f42-a6ee-63c7893119e0.png">
 
-
+<img width="977" alt="Screen Shot 2565-01-18 at 22 30 16" src="https://user-images.githubusercontent.com/60128438/149967341-0e4edfdb-b7d5-4f13-b91d-fd1adf394ac5.png">
